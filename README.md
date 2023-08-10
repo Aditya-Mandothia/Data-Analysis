@@ -18,10 +18,17 @@ Re-indexing and reformatting our data.
 3. Univariate Analysis
 In Univariate Analysis, you analyze data from just one variable. A variable in your dataset refers to a single feature/ column. You can do this either with graphical or non-graphical means by finding specific mathematical values in the data. Some visual methods include:
 
+![alt text](https://github.com/Aditya-Mandothia/Data-Analysis/blob/926a1f2db88e0a4509f648824c7bf0e08343ea2b/Screenshot%20(73).png)
+
 Histograms: Bar plots in which the frequency of data is represented with rectangle bars.
 Box plots: Here the information is represented in the form of boxes.
 Let's make a histogram out of our SalePrice column.  
 
 4. Bivariate Analysis
 Here, you use two variables and compare them. This way, you can find how one feature affects the other. It is done with scatter plots, which plot individual data points or correlation matrices that plot the correlation in hues. You can also use boxplots.
+
+Then Reaching conclusions, such as in our case we analyzed the sales reports and derived the conclusion for it.
+![alt text](https://github.com/Aditya-Mandothia/Data-Analysis/blob/926a1f2db88e0a4509f648824c7bf0e08343ea2b/Screenshot%20(81).png)
+
+
 
