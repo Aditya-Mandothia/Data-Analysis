@@ -1,4 +1,4 @@
-Python_Sales_Analysis
+PYTHON SALES ANALYSIS
 
 This project utilizes Python and its libraries namely NUMPY, SEABORN, MATLPLOTLIB, and PANDAS, for EXPLORATORY DATA ANALYSIS.
 
